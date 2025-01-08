@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="TEAM" id="CC2AE5F4-2894-7AFB-8D87-939AC4965904" version="3.5">
+<createdBy>Philip Bulut</createdBy>
+<createdTime>2025-01-08 11:07:35 UTC</createdTime>
+<ownerDesignName>TEAM</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>CC2AE5F4-2894-7AFB-8D87-939AC4965904</designId>
+</OSDM_Design>
